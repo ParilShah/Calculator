@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>+</key>
+	<string>performAddtions:</string>
+	<key>-</key>
+	<string>performSubtractions:</string>
+	<key>*</key>
+	<string>performMultiplication:</string>
+	<key>/</key>
+	<string>performDivisionWith:</string>
+	<key>%</key>
+	<string>performPercentage:</string>
+	<key>x2</key>
+	<string>performSquare:</string>
+	<key>x3</key>
+	<string>peformCube:</string>
+	<key>xy</key>
+	<string>perforrmPowerOfY:</string>
+	<key>ex</key>
+	<string>performPowerOfe:</string>
+	<key>10x</key>
+	<string>performPowerofTen:</string>
+	<key>1/x</key>
+	<string>performInverse:</string>
+	<key>√x</key>
+	<string>performSquareRoot:</string>
+	<key>3√x</key>
+	<string>peformSquareRootThree:</string>
+	<key>y√x</key>
+	<string>perforrmSquareRootOfY:</string>
+	<key>ln</key>
+	<string>performNaturalLog:</string>
+	<key>log 10</key>
+	<string>performlogBaseTen:</string>
+	<key>X!</key>
+	<string>performFactorial:</string>
+	<key>sin</key>
+	<string>performSin:</string>
+	<key>cos</key>
+	<string>performCos:</string>
+	<key>tan</key>
+	<string>performTan:</string>
+	<key>EE</key>
+	<string>performEE:</string>
+	<key>sinh</key>
+	<string>performSinh:</string>
+	<key>cosh</key>
+	<string>perofmrCosh:</string>
+	<key>tanh</key>
+	<string>performtanh:</string>
+	<key>sin-1</key>
+	<string>performSinInverse:</string>
+	<key>cos-1</key>
+	<string>performCosInverse:</string>
+	<key>tan-1</key>
+	<string>performTaninverse:</string>
+	<key>sinh-1</key>
+	<string>performSinhInverse:</string>
+	<key>cosh-1</key>
+	<string>performCoshInverse:</string>
+	<key>tanh-1</key>
+	<string>performTanhInverse:</string>
+	<key>log2</key>
+	<string>performLogBaseOfTwo:</string>
+	<key>logy</key>
+	<string>performLogBaseOfY:</string>
+	<key>2x</key>
+	<string>performPowerofTwo:</string>
+	<key>yx</key>
+	<string>perforrmPowerOfX:</string>
+</dict>
+</plist>
